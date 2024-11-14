@@ -21,15 +21,10 @@ Ensure you have Python 3 installed on your machine. You'll also need to clone th
 1. **Clone the repository:**
 
     ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/cgleonr/Hangman.git
     ```
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd hangman-game
-    ```
-
-3. **Install required dependencies:**
+2. **Install required dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
