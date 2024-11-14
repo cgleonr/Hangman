@@ -6,7 +6,6 @@ This is a simple, text-based Hangman game implemented in Python. The game random
 - Random word selection from a list
 - Progressive reveal of correctly guessed letters
 - Tracks and displays incorrect guesses
-- Fun and educational for beginners learning Python!
 
 ## Getting Started
 
